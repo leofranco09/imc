@@ -23,3 +23,5 @@ Permitiendole saber el tipo de peso (bajo Peso, Peso Normal, Sobrepeso, Obesidad
 ## Contribuciones
 
 ¡Las Contribuciones son bienvenidas! Si encuentras algún problema o si tienes ideas para mejorar la calculadora, por favor envia un pull request
+
+## Basado en codewithcurious.org
